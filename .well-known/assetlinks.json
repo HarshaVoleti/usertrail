@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.usertrail",
+      "sha256_cert_fingerprints": [
+        "66:aa:8a:f9:fd:97:c3:81:ec:f0:d6:ff:3a:8e:2c:03:8d:9c:9f:cf:1c:d4:d0:a9:c6:53:fe:d1:89:54:98:44"
+      ]
+    }
+  }
+]
